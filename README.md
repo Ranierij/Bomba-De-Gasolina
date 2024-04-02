@@ -6,4 +6,5 @@
 
 ### Autor: *Ranieri Jesuino*
 
-!![image](https://github.com/Ranierij/Bomba-De-Gasolina/assets/95530644/65ed21a1-9a88-4494-a8fd-9b96a91fb580)
+![image](https://github.com/Ranierij/Bomba-De-Gasolina/assets/95530644/f243e7fd-a08b-467f-9216-e9e19dd3b94b)
+
